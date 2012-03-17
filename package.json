@@ -1,6 +1,6 @@
 {
-    "name": "JSON-js",
-    "version": "0.1",
+    "name": "json",
+    "version": "0.1.0",
     "description": "JSON encoders/decoders in JavaScript",
     "author": { "name": "Douglas Crockford" },
     "main": "json2.js",
