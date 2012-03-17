@@ -1,0 +1,11 @@
+{
+    "name": "JSON-js",
+    "version": "0.1",
+    "description": "JSON encoders/decoders in JavaScript",
+    "author": { "name": "Douglas Crockford" },
+    "main": "json2.js",
+    "repository": {
+        "type": "git",
+        "url": "https://meisl@github.com/meisl/JSON-js.git"
+    }
+}
